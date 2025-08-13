@@ -6,6 +6,10 @@ public class St {
 		// TODO Auto-generated method stub
 
 		System.out.println("Ashish");
+		System.out.println("Ajinkya");
+		System.out.println("Akash");
+		
 	}
 
 }
+
